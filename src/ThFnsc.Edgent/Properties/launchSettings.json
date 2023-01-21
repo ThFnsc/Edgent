@@ -1,0 +1,28 @@
+﻿{
+  "profiles": {
+    "ThFnsc.Edgent watch": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "commandLineArgs": "watch",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "ThFnsc.Edgent install": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "commandLineArgs": "install",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "ThFnsc.Edgent uninstall": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "commandLineArgs": "uninstall",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
